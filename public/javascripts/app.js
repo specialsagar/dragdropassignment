@@ -15,6 +15,7 @@ angular.module('mainapp', ['ngRoute', 'ui.layout'])
 
   })
   .controller('secondCtrl', function () {
+    // for more info visit interactjs.io
     $(function () {
       interact('.resize-drag')
 
