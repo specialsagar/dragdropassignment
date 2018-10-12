@@ -1,0 +1,21 @@
+{
+  "name": "selekt",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sagar Shah <sagarshahj@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-layout": "bower"
+  }
+}
